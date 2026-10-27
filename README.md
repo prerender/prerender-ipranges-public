@@ -20,7 +20,7 @@ This repository contains the official IP ranges that clients will see making HTT
 ## IP Ranges
 
 ### Proxy networks and rendering servers (8 ranges)
-- `103.207.40.0/24` … `103.207.43.0/24` - EU (Frankfurt, Amsterdam, Kista)
+- `103.207.40.0/24` … `103.207.43.0/24` - EU (Frankfurt, Amsterdam)
 - `104.224.12.0/24` … `104.224.15.0/24` - US
 
 ### Sitemap crawler (1 range)
